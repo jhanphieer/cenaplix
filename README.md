@@ -1,2 +1,2 @@
-# cenaplix
-📺 Cenaflix: O filme certo, na hora certa.
+index.html
+<Bem-vindo a CenaFlix - Sua nova casa de filmes e emoções>
